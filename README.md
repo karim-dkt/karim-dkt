@@ -8,39 +8,23 @@
 
 ## 🧠 About Me
 
-I am a computer science student with a solid intermediate level in programming,  
-strong foundations in **C++**, networking and system concepts.
 
-My goal is to pursue a Master’s degree in **Cybersecurity / Network Engineering**  
-and evolve toward advanced security systems and infrastructure design.
+Étudiant en Informatique avec un niveau intermédiaire solide, je maîtrise le **C++**, les **réseaux** et les **systèmes**.  
+Je vise un **Master en Cybersécurité / Ingénierie Réseau** pour concevoir les infrastructures et systèmes de sécurité de demain.  
+
+💡 Passionné par la **sécurité informatique**, l’**optimisation des systèmes** et les **projets techniques ambitieux**.  
+🚀 Toujours prêt à apprendre, coder et relever de nouveaux défis.
+
+---
+## 💼 Recherche de stage
+
+Je suis actuellement à la recherche d’un **stage en cybersécurité, réseaux ou systèmes**, afin de mettre en pratique mes compétences en **C++, réseaux et sécurité des systèmes** et de contribuer à des projets concrets.  
+Toujours motivé pour apprendre et relever de nouveaux défis !
 
 ---
 
 ## 💻 Core Programming Skills
 
-### 🔹 C++
-- Memory management
-- Pointers & dynamic allocation
-- STL (vector, map, list, deque, algorithm)
-- Templates
-- Object-Oriented Programming
-- File handling (fstream)
-- Data structures implementation
-
-### 🔹 Java
-- OOP
-- Collections (List, ArrayList)
-- Interfaces & Inheritance
-- Generics
-
-### 🔹 Web Development
-- HTML / CSS
-- PHP
-- MySQL
-- phpMyAdmin
-- XAMPP
-
----
 
 ## 🌐 Networking & Systems
 
@@ -112,18 +96,18 @@ Database-driven system using PL/SQL.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Axe de progression
 
-- Advanced networking
-- System security
-- Low-level programming
-- Preparing for Cybersecurity specialization
+- Approfondissement des réseaux avancés  
+- Renforcement en sécurité des systèmes  
+- Maîtrise de la programmation bas niveau  
+- Préparation à une spécialisation en cybersécurité
 
 ---
 
 ## ♟️ Mindset
 
-Chess has shaped my analytical thinking,  
-anticipation skills and strategic planning approach.
+Les échecs ont façonné ma **pensée analytique**,  
+mes **compétences en anticipation** et ma **capacité à planifier stratégiquement**.
 
 > "Security is not about reacting. It is about anticipating."
