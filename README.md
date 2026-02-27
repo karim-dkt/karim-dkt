@@ -18,8 +18,9 @@ Je vise un **Master en Cybersécurité / Ingénierie Réseau** pour concevoir le
 ---
 ## 💼 Recherche de stage
 
-Je suis actuellement à la recherche d’un **stage en cybersécurité, réseaux ou systèmes**, afin de mettre en pratique mes compétences en **C++, réseaux et sécurité des systèmes** et de contribuer à des projets concrets.  
-Toujours motivé pour apprendre et relever de nouveaux défis !
+Je suis actuellement à la recherche d’un **stage en tant qu’administrateur réseau** ou **développeur web** (sites ou applications en **Java**) à partir du **13 avril 2026** au **Maroc**.  
+Mon objectif est de mettre en pratique mes compétences en **réseaux, systèmes et développement**, tout en contribuant à des projets concrets et innovants.  
+Toujours motivé pour apprendre, relever des défis et apporter de la valeur à une équipe.
 
 ---
 
