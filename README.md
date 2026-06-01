@@ -16,13 +16,7 @@ Je vise un **Master en Cybersécurité / Ingénierie Réseau** pour concevoir le
 🚀 Toujours prêt à apprendre, coder et relever de nouveaux défis.
 
 ---
-## 💼 Recherche de stage
 
-Je suis actuellement à la recherche d’un **stage en tant qu’administrateur réseau** ou **développeur web** (sites ou applications en **Java**) à partir du **13 avril 2026** au **Maroc**.  
-Mon objectif est de mettre en pratique mes compétences en **réseaux, systèmes et développement**, tout en contribuant à des projets concrets et innovants.  
-Toujours motivé pour apprendre, relever des défis et apporter de la valeur à une équipe.
-
----
 
 ## 💻 Core Programming Skills
 
